@@ -7,6 +7,6 @@ This repository serves as a track of learning journey of frontend development.
 * **[Frontend Roadmap Website using HTML]:**
 
     * A simple website using HTML which contains roadmap for frontend development
-    * Project repository link: 
+    * Project repository link: https://github.com/Atquiya-Labiba/Frontend-Development/tree/main/frontend_roadmap
     
 
